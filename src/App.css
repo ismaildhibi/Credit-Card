@@ -1,0 +1,76 @@
+.App{
+  display: flex;
+ justify-content: center;
+  
+}
+.card{
+  background-image: url('https://spacenews.com/wp-content/uploads/2018/05/24359364107_152b0152ff_k-879x485.jpg') ;
+  width: 550px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  padding: 30px;
+  color:  white ;
+}
+h1 {
+ 
+display: flex;
+justify-content: flex-end;
+
+}
+h2{
+  background-color:goldenrod;
+  opacity: 0.5;
+  width: 270px
+}
+.chip
+{
+  width: 80px;
+  height: 80px;
+}
+.visa
+{
+  width: 100px;
+  height: 100px;
+
+
+}
+.information
+{
+  display: flex;
+  justify-content: space-between;
+}
+ 
+
+
+.date
+{
+  display: flex;
+  justify-content: space-between ;
+}
+.validiti{
+
+  font-size: 10px;
+  
+  
+
+}
+.month{
+margin-left: 60px
+}
+.moo
+{
+  display: flex;
+ 
+}
+.inputvalue{
+
+  display: flex;
+  flex-direction: column;
+}
+input{
+  margin:20px;
+  width:300px;
+  border:2px solid black
+}
